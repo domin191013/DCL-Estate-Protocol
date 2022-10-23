@@ -1,0 +1,23 @@
+{
+  "name": "dcl-estate-protocol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domin191013/DCL-Estate-Protocol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domin191013/DCL-Estate-Protocol/issues"
+  },
+  "homepage": "https://github.com/domin191013/DCL-Estate-Protocol#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.0"
+  }
+}
